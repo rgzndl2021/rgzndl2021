@@ -1,4 +1,7 @@
-### Hi there 👋
+### 北理工人工智能导论资料
+
+#### 参考资料
+> 链接:https://pan.baidu.com/s/1Ccof7tI3y1bBQkGYmsLgbQ  密码:8szr
 
 <!--
 **rgzndl2021/rgzndl2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
